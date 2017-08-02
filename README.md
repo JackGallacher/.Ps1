@@ -1,2 +1,4 @@
 # .Ps1
-Powershell Scripts I have created
+PowerShell Scripts I have created
+
+PowershellFoundation - Challenges from the CBT Nugget Powershell course 'Powershell 4 Foundations'
