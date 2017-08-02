@@ -1,0 +1,20 @@
+GivenName,Surname,Initials,Name,SamAccountName,Department,ForceID,Side,Role,Enabled,Password
+Luke,Skywalker,LS,Luke Skywalker,LSkywalker,IT,189478,Light,Admin,$True,P@ssw0rd
+Leia,Organa,LO,Leia Organa,PLeia,IT,187516,Light,Admin,$True,P@ssw0rd
+Han,Solo,HS,Han Solo,HSolo,IT,134530,Light,User,$True,P@ssw0rd
+Chewbacca,,C,Chewbacca,Chewie,IT,162455,Light,User,$True,P@ssw0rd
+R2D2,,R2D2,R2D2,R2D2,IT,121901,Light,User,$True,P@ssw0rd
+Lando,Calrissian,LC,Lando Calrissian,LCalrissian,IT,170221,Light,User,$True,P@ssw0rd
+Obi-Wan,Kenobi,OK,Obi-Wan Kenobi,OKenobi,IT,128669,Light,User,$True,P@ssw0rd
+Master,Yoda,MY,Master Yoda,MYoda,IT,108705,Light,User,$True,P@ssw0rd
+Padme,Amidala,PA,Padme Amidala,PAmidala,IT,106381,Light,User,$True,P@ssw0rd
+Qui-Gon,Jinn,QJ,Qui-Gon Jinn,QJinn,IT,193922,Light,User,$True,P@ssw0rd
+Darth,Vader,DV,Darth Vader,DVader,IT,174066,Dark,Admin,$True,P@ssw0rd
+Kylo,Ren,KR,Kylo Ren,KRen,IT,105871,Dark,User,$True,P@ssw0rd
+Boba,Fett,BF,Boba Fett,BFett,IT,126670,Dark,User,$True,P@ssw0rd
+Jabba,The Hutt,JTH,Jabba The Hutt,JHutt,IT,124671,Dark,User,$True,P@ssw0rd
+Darth,Maul,DM,Darth Maul,DMaul,IT,118935,Dark,User,$True,P@ssw0rd
+Count,Dooku,CD,Count Dooku,CDooku,IT,183367,Dark,User,$True,P@ssw0rd
+Jar Jar,Binks,JJB,Jar Jar Binks,JJBinks,IT,185662,Dark,User,$True,P@ssw0rd
+The,Emporer,TE,The Emporer,TEmporer,IT,118972,Dark,Admin,$True,P@ssw0rd
+Grand,Moff Tarkin,GMT,Grand Moff Tarkin,GMTarkin,IT,187421,Dark,User,$True,P@ssw0rd
